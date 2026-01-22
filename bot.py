@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 import requests
 
-BOT_TOKEN = "7898119257:AAGJUe7U-H0NYnvvftDZ1-nhbmoi8Rgo3Gs"
+BOT_TOKEN = "8297953432:AAHUs5q2wXggLgLHT_dYR7UABTvj5m5x5pM"
 
 CHANNELS = ["apktitann","apktitann","apktitann","vipbrancho","apktitann"]
 
